@@ -11,7 +11,7 @@
       <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular.min.js"></script>
       <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular-sanitize.min.js"></script>
       <script src="js/d3.min.js"></script>
-      
+
       <script src="js/vivo.js"></script>
       <link rel="stylesheet" href="css/vivo.css">
    </head>
@@ -36,10 +36,10 @@
             </p>
             <p>
                VIVO ontology is maintained by OpenRIF and is available <a href="http://vivoweb.org/ontology/core">here</a>.
-            </p> 
+            </p>
             <p>
                Figures included here are created and maintained by <a href="http://vivo.ufl.edu/individual/mconlon">Mike Conlon</a> based on original concepts by <a href="http://vivo.cornell.edu/individual/individual22972">Jon Corson-Rikert</a>.  Mike uses the <a href="http://vue.tufts.edu/">VUE software</a> from <a href="https://www.tufts.edu/">Tufts University</a>. The original figures and VUE files are available in the <a href="https://wiki.duraspace.org/display/VIVODOC19x/Ontology+Diagrams">VIVO documentation wiki</a>.
-            </p>     
+            </p>
             <hr/>
             <p style="margin-top:10em;">
                <a href="http://www.duraspace.org/"><img src="data/duraspace.png" height="80"></a>
@@ -94,7 +94,7 @@
                         </div>
                         <span style="margin-right:1.25em; display:inline-block;" ng-repeat="cls in ontology.classes" data-toggle="tooltip" title="{{cls.uri}}">
                         <a href="{{cls.link}}" target="_blank">{{cls.label}}</a>
-                        </span> 
+                        </span>
                      </div>
                      <br>
                      <div style="margin-right:1.25em; margin-top:1.25em;" class="text-justify" ng-show="ontology.objProperties.length>0">
@@ -194,10 +194,11 @@
          <div id="footer" style="margin-top:5em;">
             <div class="container">
                <p class="muted credit">
-                  <font style="font-style: italic; font-family: Times New Roman, Times, serif;" color="#808080">Created by 
-                  <a href="http://orcid.org/0000-0001-9770-7640" target="_blank">Muhammad Javed</a> with the support from 
-                  <a href="http://orcid.org/0000-0002-1304-8447" target="_blank">Mike Conlon</a>.
-                  Last modified on May 19, 2017.
+                  <font style="font-style: italic; font-family: Times New Roman, Times, serif;" color="#808080">Created by
+                  <a href="https://orcid.org/0000-0001-9770-7640" target="_blank">Muhammad Javed</a> with support from
+                  <a href="https://orcid.org/0000-0002-1304-8447" target="_blank">Mike Conlon</a> and additional work by
+                  <a href="https://orcid.org/0000-0002-7908-1987" target="_blank">Benjamin Gross</a>.
+                  Last modified on February 20, 2020.
                   </font>
                </p>
             </div>
@@ -205,7 +206,7 @@
       </div>
       <script>
          $(document).ready(function(){
-           $('[data-toggle="tooltip"]').tooltip();   
+           $('[data-toggle="tooltip"]').tooltip();
          });
       </script>
    </body>

@@ -545,32 +545,32 @@
       {
         "label": "accepted",
         "uri": "http://purl.org/ontology/bibo/accepted",
-        "link": "http://www.essepuntato.it/lode/owlapi/http://vivoweb.org/ontology/core#d4e19409"
+        "link": ""
       },
       {
         "label": "draft",
         "uri": "http://purl.org/ontology/bibo/draft",
-        "link": "http://www.essepuntato.it/lode/owlapi/http://vivoweb.org/ontology/core#d4e19425"
+        "link": ""
       },
       {
         "label": "peerReviewed",
         "uri": "http://purl.org/ontology/bibo/peerReviewed",
-        "link": "http://www.essepuntato.it/lode/owlapi/http://vivoweb.org/ontology/core#d4e19436"
+        "link": ""
       },
       {
         "label": "published",
         "uri": "http://purl.org/ontology/bibo/published",
-        "link": "http://www.essepuntato.it/lode/owlapi/http://vivoweb.org/ontology/core#d4e19452"
+        "link": ""
       },
       {
         "label": "rejected",
         "uri": "http://purl.org/ontology/bibo/rejected",
-        "link": "http://www.essepuntato.it/lode/owlapi/http://vivoweb.org/ontology/core#d4e19468"
+        "link": ""
       },
       {
         "label": "unpublished",
         "uri": "http://purl.org/ontology/bibo/unpublished",
-        "link": "http://www.essepuntato.it/lode/owlapi/http://vivoweb.org/ontology/core#d4e19479"
+        "link": ""
       }
     ]
   },
@@ -2256,7 +2256,7 @@
       {
         "label": "ARG_2000400",
         "uri": "http://purl.obolibrary.org/obo/ARG_2000400",
-        "link": "http://www.essepuntato.it/lode/owlapi/http://vivoweb.org/ontology/core#d4e19399"
+        "link": ""
       }
     ]
   },
@@ -4475,37 +4475,37 @@
       {
         "label": "inPress",
         "uri": "http://vivoweb.org/ontology/core#inPress",
-        "link": "http://www.essepuntato.it/lode/owlapi/http://vivoweb.org/ontology/core#d4e19489"
+        "link": ""
       },
       {
         "label": "invited",
         "uri": "http://vivoweb.org/ontology/core#invited",
-        "link": "http://www.essepuntato.it/lode/owlapi/http://vivoweb.org/ontology/core#d4e19505"
+        "link": ""
       },
       {
         "label": "submitted",
         "uri": "http://vivoweb.org/ontology/core#submitted",
-        "link": "http://www.essepuntato.it/lode/owlapi/http://vivoweb.org/ontology/core#d4e19516"
+        "link": ""
       },
       {
         "label": "yearMonthDayPrecision",
         "uri": "http://vivoweb.org/ontology/core#yearMonthDayPrecision",
-        "link": "http://www.essepuntato.it/lode/owlapi/http://vivoweb.org/ontology/core#d4e19526"
+        "link": ""
       },
       {
         "label": "yearMonthDayTimePrecision",
         "uri": "http://vivoweb.org/ontology/core#yearMonthDayTimePrecision",
-        "link": "http://www.essepuntato.it/lode/owlapi/http://vivoweb.org/ontology/core#d4e19539"
+        "link": ""
       },
       {
         "label": "yearMonthPrecision",
         "uri": "http://vivoweb.org/ontology/core#yearMonthPrecision",
-        "link": "http://www.essepuntato.it/lode/owlapi/http://vivoweb.org/ontology/core#d4e19553"
+        "link": ""
       },
       {
         "label": "yearPrecision",
         "uri": "http://vivoweb.org/ontology/core#yearPrecision",
-        "link": "http://www.essepuntato.it/lode/owlapi/http://vivoweb.org/ontology/core#d4e19566"
+        "link": ""
       }
     ]
   }

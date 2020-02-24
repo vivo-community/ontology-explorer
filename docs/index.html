@@ -129,7 +129,7 @@
                            <h4 id="fontstyle">Instances ({{ontology.individuals.length}})</h4>
                         </div>
                         <span style="margin-right:1.25em; display:inline-block;" ng-repeat="indv in ontology.individuals" data-toggle="tooltip" title="{{indv.uri}}">
-                           <a href="{{indv.link}}" target="_blank">{{indv.label}}</a>
+                           {{indv.label}}
                         </span>
                         <br>
                      </div>

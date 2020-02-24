@@ -545,32 +545,32 @@
       {
         "label": "accepted",
         "uri": "http://purl.org/ontology/bibo/accepted",
-        "link": "#bibo"
+        "link": ""
       },
       {
         "label": "draft",
         "uri": "http://purl.org/ontology/bibo/draft",
-        "link": "#bibo"
+        "link": ""
       },
       {
         "label": "peerReviewed",
         "uri": "http://purl.org/ontology/bibo/peerReviewed",
-        "link": "#bibo"
+        "link": ""
       },
       {
         "label": "published",
         "uri": "http://purl.org/ontology/bibo/published",
-        "link": "#bibo"
+        "link": ""
       },
       {
         "label": "rejected",
         "uri": "http://purl.org/ontology/bibo/rejected",
-        "link": "#bibo"
+        "link": ""
       },
       {
         "label": "unpublished",
         "uri": "http://purl.org/ontology/bibo/unpublished",
-        "link": "#bibo"
+        "link": ""
       }
     ]
   },
@@ -872,22 +872,22 @@
       {
         "label": "HDINotes",
         "uri": "http://aims.fao.org/aos/geopolitical.owl#HDINotes",
-        "link": "#geo"
+        "link": ""
       },
       {
         "label": "HDITotal",
         "uri": "http://aims.fao.org/aos/geopolitical.owl#HDITotal",
-        "link": "#geo"
+        "link": ""
       },
       {
         "label": "HDIUnit",
         "uri": "http://aims.fao.org/aos/geopolitical.owl#HDIUnit",
-        "link": "#geo"
+        "link": ""
       },
       {
         "label": "HDIYear",
         "uri": "http://aims.fao.org/aos/geopolitical.owl#HDIYear",
-        "link": "#geo"
+        "link": ""
       },
       {
         "label": "agriculturalArea",
@@ -2256,7 +2256,7 @@
       {
         "label": "ARG_2000400",
         "uri": "http://purl.obolibrary.org/obo/ARG_2000400",
-        "link": "#obo"
+        "link": ""
       }
     ]
   },
@@ -4475,37 +4475,37 @@
       {
         "label": "inPress",
         "uri": "http://vivoweb.org/ontology/core#inPress",
-        "link": "#vivocore"
+        "link": ""
       },
       {
         "label": "invited",
         "uri": "http://vivoweb.org/ontology/core#invited",
-        "link": "#vivocore"
+        "link": ""
       },
       {
         "label": "submitted",
         "uri": "http://vivoweb.org/ontology/core#submitted",
-        "link": "#vivocore"
+        "link": ""
       },
       {
         "label": "yearMonthDayPrecision",
         "uri": "http://vivoweb.org/ontology/core#yearMonthDayPrecision",
-        "link": "#vivocore"
+        "link": ""
       },
       {
         "label": "yearMonthDayTimePrecision",
         "uri": "http://vivoweb.org/ontology/core#yearMonthDayTimePrecision",
-        "link": "#vivocore"
+        "link": ""
       },
       {
         "label": "yearMonthPrecision",
         "uri": "http://vivoweb.org/ontology/core#yearMonthPrecision",
-        "link": "#vivocore"
+        "link": ""
       },
       {
         "label": "yearPrecision",
         "uri": "http://vivoweb.org/ontology/core#yearPrecision",
-        "link": "#vivocore"
+        "link": ""
       }
     ]
   }
